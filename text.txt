@@ -1,0 +1,6 @@
+Test Case -> is where we write a simple unit test 
+test suite->where you combine multiple test cases to tesst multiple methods
+unit under test->production code test
+text fixture->
+
+
